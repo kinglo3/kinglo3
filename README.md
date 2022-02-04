@@ -13,7 +13,8 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+
+<br>
   
 <!--
 **kinglo3/kinglo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,3 +29,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/kinglogan3/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love horror movies
+
+---
+<br>
+
+![Kings's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinglo3&show_icons=true&theme=cobalt)
