@@ -22,7 +22,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my Portfolio Page
+- 🔭 I’m currently workingtesting sites with Cypress
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on most anything, especially projects regarding sustainability
 - 💬 Ask me about the General Assembly softwaree engineering immersive program
